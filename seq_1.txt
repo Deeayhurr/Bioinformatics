@@ -1,0 +1,2 @@
+>lcl|M15757.1_cds_AAA36824.1_1 [protein_id=AAA36824.1] [location=join(179..270,394..616,1482..1610)] [gbkey=CDS]
+GACTTAC
