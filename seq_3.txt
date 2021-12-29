@@ -1,0 +1,2 @@
+>lcl|M32724.1_cds_AAA35953.1_1 [protein_id=AAA35953.1] [location=join(1282..1373,1496..1718,2595..>2648)] [gbkey=CDS]
+GATTACA

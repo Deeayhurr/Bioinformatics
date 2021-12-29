@@ -1,0 +1,14 @@
+Score : 2.0 
+
+
+-----
+A-TGCT
+ATTACA
+
+-----
+AT-GCT
+ATTACA
+
+-----
+ATG-CT
+ATTACA
